@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "Chrome Maskesi"
+    "message": "Edge Maskesi"
   },
 
   "extensionDescription": {
-    "message": "Firefox'a, başka türlü çalışmayan, websitelere Chrome gibi gözükmesi için maske giydirir."
+    "message": "Firefox'a, başka türlü çalışmayan, websitelere Microsoft Edge gibi gözükmesi için maske giydirir."
   },
 
   "breakageWarning": {
-    "message": "Eğer \"Desteklenmeyen tarayıcı\" mesajı görüyorsanız Chrome Maskesi yardımcı olabilir ama bazı sitelerde beklenmeyen sorunlara yol açabilir."
+    "message": "Eğer \"Desteklenmeyen tarayıcı\" mesajı görüyorsanız Edge Maskesi yardımcı olabilir ama bazı sitelerde beklenmeyen sorunlara yol açabilir."
   },
 
   "reportBrokenSite": {
-    "message": "Eğer Chrome Maskesi ile daha iyi çalışan bir site bulursan lütfen $IN_PRODUCT_REPORTER$ ya da $WEBCOMPAT$ bildirin. Teşekkür ederiz! &hearts;",
+    "message": "Eğer Edge Maskesi ile daha iyi çalışan bir site bulursan lütfen $IN_PRODUCT_REPORTER$ ya da $WEBCOMPAT$ bildirin. Teşekkür ederiz! &hearts;",
     "placeholders": {
       "IN_PRODUCT_REPORTER": {
         "content": "$1"
@@ -32,7 +32,7 @@
   },
 
   "maskStatusOn": {
-    "message": "Maske açık! Bu sitede Chrome gibi davranmaya çalışacağım."
+    "message": "Maske açık! Bu sitede Microsoft Edge gibi davranmaya çalışacağım."
   },
 
   "maskStatusOff": {
@@ -40,7 +40,7 @@
   },
 
   "maskStatusUnsupported": {
-    "message": "Chrome Maskesi bu sitede desteklenmiyor."
+    "message": "Edge Maskesi bu sitede desteklenmiyor."
   },
 
   "addSiteTitle": {
@@ -52,7 +52,7 @@
   },
 
   "addSiteHostnameExplanation": {
-    "message": "Not: Herzaman tam alan adını yazın. Eğer example.com yazarsanız Chrome Maskesi www.example.com da açılmayacaktır!"
+    "message": "Not: Herzaman tam alan adını yazın. Eğer example.com yazarsanız Edge Maskesi www.example.com da açılmayacaktır!"
   },
 
   "addSiteErrorInvalid": {
@@ -60,7 +60,7 @@
   },
 
   "addSiteErrorAlreadyActive": {
-    "message": "Chrome Maskesi bu alan adı için zaten aktif!"
+    "message": "Edge Maskesi bu alan adı için zaten aktif!"
   },
 
   "maskedSitesTitle": {
@@ -72,6 +72,6 @@
   },
 
   "siteListEmpty": {
-    "message": "Daha herhangi bir sitede Chrome Maskesi'ni aktifleştirmedin!"
+    "message": "Daha herhangi bir sitede Edge Maskesi'ni aktifleştirmedin!"
   }
 }

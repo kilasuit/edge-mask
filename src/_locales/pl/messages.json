@@ -1,14 +1,14 @@
 {
   "extensionName": {
-    "message": "Chrome Mask"
+    "message": "Edge Mask"
   },
 
   "extensionDescription": {
-    "message": "Sprawia, że Firefox przyjmuje maskę, aby wyglądać jak Chrome dla stron internetowych, które w przeciwnym razie nie będą działać."
+    "message": "Sprawia, że Firefox przyjmuje maskę, aby wyglądać jak Microsoft Edge dla stron internetowych, które w przeciwnym razie nie będą działać."
   },
 
   "maskStatusOn": {
-    "message": "Maska jest włączona! Na tej stronie udaję Chrome."
+    "message": "Maska jest włączona! Na tej stronie udaję Microsoft Edge."
   },
 
   "maskStatusOff": {

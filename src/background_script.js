@@ -58,7 +58,7 @@ function onBeforeSendHeadersHandler(details) {
   details.requestHeaders.push(
     {
       name: "sec-ch-ua",
-      value: `"Chromium";v="${chromeUAStringManager.getChromeVersion()}", "Google Chrome";v="${chromeUAStringManager.getChromeVersion()}", "Not/A)Brand";v="99"`,
+      value: `"Chromium";v="${chromeUAStringManager.getChromeVersion()}", "Microsoft Edge";v="${chromeUAStringManager.getChromeVersion()}", "Not/A)Brand";v="99"`,
     },
     { name: "sec-ch-ua-mobile", value: chromeUAStringManager.getCHMobile() },
     { name: "sec-ch-ua-platform", value: chromeUAStringManager.getCHPlatform() },
