@@ -1,14 +1,14 @@
 {
   "extensionName": {
-    "message": "Chrome Mask"
+    "message": "Edge Mask"
   },
 
   "extensionDescription": {
-    "message": "给您的火狐浏览器戴上“面具”，让它在那些不支持火狐的网站上看起来像谷歌Chrome，从而使网页正常显示。"
+    "message": "给您的火狐浏览器戴上“面具”，让它在那些不支持火狐的网站上看起来像Microsoft Edge，从而使网页正常显示。"
   },
 
   "breakageWarning": {
-    "message": "虽然Chrome Mask可以帮助您解决“浏览器不受支持”的问题，但是它也许会导致某些网站出现意外的故障。"
+    "message": "虽然Edge Mask可以帮助您解决“浏览器不受支持”的问题，但是它也许会导致某些网站出现意外的故障。"
   },
 
   "reportBrokenSite": {
@@ -53,7 +53,7 @@
   },
 
   "addSiteHostnameExplanation": {
-    "message": "注意：您必须输入完整的域名。如果您输入example.com，Chrome Mask将不会在www.example.com上生效！"
+    "message": "注意：您必须输入完整的域名。如果您输入example.com，Edge Mask将不会在www.example.com上生效！"
   },
 
   "addSiteErrorInvalid": {
@@ -61,7 +61,7 @@
   },
 
   "addSiteErrorAlreadyActive": {
-    "message": "Chrome Mask已经在此域名上启用了！"
+    "message": "Edge Mask已经在此域名上启用了！"
   },
 
   "maskedSitesTitle": {
@@ -73,6 +73,6 @@
   },
 
   "siteListEmpty": {
-    "message": "您还没有在任何网站上启用Chrome Mask！"
+    "message": "您还没有在任何网站上启用Edge Mask！"
   }
 }

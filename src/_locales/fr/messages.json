@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "Chrome Mask"
+    "message": "Edge Mask"
   },
 
   "extensionDescription": {
-    "message": "Mettez un masque à Firefox afin qu'il ressemble à Chrome sur les sites Web qui autrement ne fonctionneraient pas."
+    "message": "Mettez un masque à Firefox afin qu'il ressemble à Microsoft Edge sur les sites Web qui autrement ne fonctionneraient pas."
   },
 
   "breakageWarning": {
-    "message": "Bien que Chrome Mask puisse vous aider si vous voyez un message « votre navigateur n'est pas supporté », il peut causer des problèmes de façon inattendu sur certains sites."
+    "message": "Bien que Edge Mask puisse vous aider si vous voyez un message « votre navigateur n'est pas supporté », il peut causer des problèmes de façon inattendu sur certains sites."
   },
 
   "reportBrokenSite": {
-    "message": "Si vous trouvez qu'un site fonctionne mieux avec Chrome Mask activé, s'il-vous-plaît veuillez le rapporter $IN_PRODUCT_REPORTER$ ou $WEBCOMPAT$. Merci! &hearts;",
+    "message": "Si vous trouvez qu'un site fonctionne mieux avec Edge Mask activé, s'il-vous-plaît veuillez le rapporter $IN_PRODUCT_REPORTER$ ou $WEBCOMPAT$. Merci! &hearts;",
     "placeholders": {
       "IN_PRODUCT_REPORTER": {
         "content": "$1"
@@ -32,7 +32,7 @@
   },
 
   "maskStatusOn": {
-    "message": "Le masque est activé! Je prétends d'être Chrome pour ce site."
+    "message": "Le masque est activé! Je prétends d'être Microsoft Edge pour ce site."
   },
 
   "maskStatusOff": {
@@ -48,7 +48,7 @@
   },
 
   "preferencesFallback": {
-    "message": "Pour modifier les préférences, veuillez ouvrir le gestionnaire d'extensions, sélectionner Chrome Mask et appuyer sur Préférences."
+    "message": "Pour modifier les préférences, veuillez ouvrir le gestionnaire d'extensions, sélectionner Edge Mask et appuyer sur Préférences."
   },
 
   "addSiteTitle": {
@@ -60,7 +60,7 @@
   },
 
   "addSiteHostnameExplanation": {
-    "message": "Note: Entrez toujours un nom de domaine complet. Si vous entrez example.com, Chrome Mask ne sera pas actif sur www.example.com"
+    "message": "Note: Entrez toujours un nom de domaine complet. Si vous entrez example.com, Edge Mask ne sera pas actif sur www.example.com"
   },
 
   "addSiteErrorInvalid": {
@@ -68,7 +68,7 @@
   },
 
   "addSiteErrorAlreadyActive": {
-    "message": "Chrome Mask est déjà activé sur ce site!"
+    "message": "Edge Mask est déjà activé sur ce site!"
   },
 
   "maskedSitesTitle": {
@@ -80,7 +80,7 @@
   },
 
   "siteListEmpty": {
-    "message": "Vous n'avez pas encore activé Chrome Mask sur un site!"
+    "message": "Vous n'avez pas encore activé Edge Mask sur un site!"
   },
   "shortcutsTitle": {
     "message": "Raccourcis clavier"

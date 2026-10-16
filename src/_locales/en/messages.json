@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "Chrome Mask"
+    "message": "Edge Mask"
   },
 
   "extensionDescription": {
-    "message": "Makes Firefox wear a mask to look like Chrome to websites that otherwise won't work."
+    "message": "Makes Firefox wear a mask to look like Microsoft Edge to websites that otherwise won't work."
   },
 
   "breakageWarning": {
-    "message": "While Chrome Mask may help if you see a \"Browser unsupported\" message, it could cause unexpected breakage on some sites."
+    "message": "While Edge Mask may help if you see a \"Browser unsupported\" message, it could cause unexpected breakage on some sites."
   },
 
   "reportBrokenSite": {
-    "message": "If you find a site which works better with Chrome Mask enabled, please report it $IN_PRODUCT_REPORTER$ or $WEBCOMPAT$. Thank you! &hearts;",
+    "message": "If you find a site which works better with Edge Mask enabled, please report it $IN_PRODUCT_REPORTER$ or $WEBCOMPAT$. Thank you! &hearts;",
     "placeholders": {
       "IN_PRODUCT_REPORTER": {
         "content": "$1"
@@ -32,7 +32,7 @@
   },
 
   "maskStatusOn": {
-    "message": "The mask is on! I pretend to be Chrome on this site."
+    "message": "The mask is on! I pretend to be Microsoft Edge on this site."
   },
 
   "maskStatusOff": {
@@ -48,7 +48,7 @@
   },
 
   "preferencesFallback": {
-    "message": "To adjust preferences, please open the Extension Manager, select Chrome Mask, and hit Settings."
+    "message": "To adjust preferences, please open the Extension Manager, select Edge Mask, and hit Settings."
   },
 
   "addSiteTitle": {
@@ -60,7 +60,7 @@
   },
 
   "addSiteHostnameExplanation": {
-    "message": "Note: Always enter the full domain name. If you enter example.com, Chrome Mask will not be active on www.example.com!"
+    "message": "Note: Always enter the full domain name. If you enter example.com, Edge Mask will not be active on www.example.com!"
   },
 
   "addSiteErrorInvalid": {
@@ -68,7 +68,7 @@
   },
 
   "addSiteErrorAlreadyActive": {
-    "message": "Chrome Mask is already enabled for this domain!"
+    "message": "Edge Mask is already enabled for this domain!"
   },
 
   "maskedSitesTitle": {
@@ -80,7 +80,7 @@
   },
 
   "siteListEmpty": {
-    "message": "You did not enable Chrome Mask on any site yet!"
+    "message": "You did not enable Edge Mask on any site yet!"
   },
 
   "manageSitesTitle": {

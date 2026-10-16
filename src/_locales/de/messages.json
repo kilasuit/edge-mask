@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "Chrome Mask"
+    "message": "Edge Mask"
   },
 
   "extensionDescription": {
-    "message": "Zieht Firefox eine Chrome-Maske auf, für Webseiten die sonst nicht funktionieren."
+    "message": "Zieht Firefox eine Edge-Maske auf, für Webseiten die sonst nicht funktionieren."
   },
 
   "breakageWarning": {
-    "message": "Die Chrome-Maske kann helfen wenn du eine \"Browser nicht unterstüzt\"-Warnung siehst, aber sie kann auch unerwartete Probleme auf manchen Seiten auslösen."
+    "message": "Die Edge-Maske kann helfen wenn du eine \"Browser nicht unterstüzt\"-Warnung siehst, aber sie kann auch unerwartete Probleme auf manchen Seiten auslösen."
   },
 
   "reportBrokenSite": {
-    "message": "Wenn du eine Seite findest, die mit Chrome-Maske besser funktioniert als ohne, melde das bitte $IN_PRODUCT_REPORTER$ oder $WEBCOMPAT$. Dankeschön! &hearts;",
+    "message": "Wenn du eine Seite findest, die mit Edge-Maske besser funktioniert als ohne, melde das bitte $IN_PRODUCT_REPORTER$ oder $WEBCOMPAT$. Dankeschön! &hearts;",
     "placeholders": {
       "IN_PRODUCT_REPORTER": {
         "content": "$1"
@@ -32,7 +32,7 @@
   },
 
   "maskStatusOn": {
-    "message": "Die Maske ist aktiv! Ich tarne mich als Chrome."
+    "message": "Die Maske ist aktiv! Ich tarne mich als Microsoft Edge."
   },
 
   "maskStatusOff": {
@@ -48,7 +48,7 @@
   },
 
   "preferencesFallback": {
-    "message": "Um Einstellungen zu verändern, benutze bitte den Extension Manager, wähle dort Chrome Mask aus, und öffne dort die Einstellungen."
+    "message": "Um Einstellungen zu verändern, benutze bitte den Extension Manager, wähle dort Edge Mask aus, und öffne dort die Einstellungen."
   },
 
   "addSiteTitle": {
@@ -60,7 +60,7 @@
   },
 
   "addSiteHostnameExplanation": {
-    "message": "Hinweis: Bitte gib immer die volle Domain an. Wenn du example.com angibst, wird die Chrome-Maske auf www.example.com nicht aktiv sein!"
+    "message": "Hinweis: Bitte gib immer die volle Domain an. Wenn du example.com angibst, wird die Edge-Maske auf www.example.com nicht aktiv sein!"
   },
 
   "addSiteErrorInvalid": {
@@ -68,7 +68,7 @@
   },
 
   "addSiteErrorAlreadyActive": {
-    "message": "Die Chrome-Maske ist auf dieser Seite bereits aktiv!"
+    "message": "Die Edge-Maske ist auf dieser Seite bereits aktiv!"
   },
 
   "maskedSitesTitle": {
@@ -80,7 +80,7 @@
   },
 
   "siteListEmpty": {
-    "message": "Die Chrome-Maske ist noch auf keiner Seite aktiv!"
+    "message": "Die Edge-Maske ist noch auf keiner Seite aktiv!"
   },
   "shortcutsTitle": {
     "message": "Tastenkürzel"

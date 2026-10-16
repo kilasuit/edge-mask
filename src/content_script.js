@@ -37,7 +37,8 @@ window.wrappedJSObject.chrome = cloneInto(
 
 // Yes, this breaks for four-digit version numbers. If I'm still doing WebCompat
 // work by then, something went either very right, or very wrong. :p
-const uaVersion = navigator.userAgent.split("Chrome/")[1].slice(0, 3);
+const uaVersionMatch = navigator.userAgent.match(/(?:EdgA?|EdgiOS)\/(\d+)/);
+const uaVersion = uaVersionMatch ? uaVersionMatch[1] : "99";
 
 // Also, this is kinda horrible. I don't want to do too much string operation
 // work here, and since I know Chome Mask never spoof as a Linux UA string, I
@@ -53,7 +54,7 @@ navigator.wrappedJSObject.userAgentData = cloneInto(
   {
     brands: [
       { brand: "Chromium", version: uaVersion },
-      { brand: "Google Chrome", version: uaVersion },
+      { brand: "Microsoft Edge", version: uaVersion },
       { brand: "Not/A)Brand", version: "99" },
     ],
     mobile: uaPlatform == "Android",
